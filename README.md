@@ -9,7 +9,7 @@ Distribution of a 2D point cloud           |  Linear regression in the presence 
 
 As you can see the results are not accurate enough. Least-squares methods (such as the one used here) are sensitive to outliers, and there are a lot of outliers (as far as we’re only interested in the diagonal linear area of high density) in this cloud.
 
-##RANSAC Algorithm
+## RANSAC Algorithm
 
 You may find the article [here](http://www.cs.ait.ac.th/~mdailey/cvreadings/Fischler-RANSAC.pdf). 
 
